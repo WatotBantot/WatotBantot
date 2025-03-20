@@ -1,5 +1,13 @@
 ## Hi there 👋
+### I'm a student, I major in `#0969DA` Information Technology 😵‍💫
+- Currently a first year!
+- Coding language: HTML, C++
+> I can code simple things on them, sadly 😔
 
+Well, I still aspire to be a part of todays generation to create something ground breaking
+so please! Don't hesitate to reach out to me, I probably need your help.
+
+Thank you for reading!! 
 <!--
 **WatotBantot/WatotBantot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
