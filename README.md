@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a student, I major in `#0969DA` Information Technology 😵‍💫
+### I'm a student, I major in Information Technology 😵‍💫
 - Currently a first year!
 - Coding language: HTML, C++
 > I can code simple things on them, sadly 😔
